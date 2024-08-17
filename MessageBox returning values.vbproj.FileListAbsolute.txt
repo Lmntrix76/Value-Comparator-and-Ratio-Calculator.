@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox_returning_values.Form1.resources
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox_returning_values.Resources.resources
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\bin\Debug\MessageBox returning values.exe.config
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\bin\Debug\MessageBox returning values.exe
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\bin\Debug\MessageBox returning values.pdb
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\bin\Debug\MessageBox returning values.xml
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.exe
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.xml
+C:\Users\user\source\repos\MessageBox returning values\MessageBox returning values\obj\Debug\MessageBox returning values.pdb
